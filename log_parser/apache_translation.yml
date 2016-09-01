@@ -1,0 +1,34 @@
+---
+a: 'request.src_ip'
+A: 'request.dst_ip'
+B: 'reponse.size'
+b: 'response.size' 
+D: 'request.us_time_consume'
+f: 'request.path' 
+h: 'request.src_ip'
+H: 'request.protocol'
+k: 'conversation.requests'
+l: 'request.client_id'
+L: 'request.error_id'
+m: 'request.method'
+p: 'request.dst_port'
+P: 'server.worker.pid'
+q: 'request.query'
+r: 'request.first_line'
+R: 'request.handler'
+s: 'response.status'
+t: 'request.time'
+T: 'request.s_time_consume'
+u: 'request.user'
+U: 'request.uri'
+v: 'server.hostname'
+V: 'server.hostname'
+X: 'request.completion'
+I: 'request.size'
+O: 'response.size'
+S: 'conversatioin.size'
+...
+#p.canonical
+#n
+#ti
+#to
